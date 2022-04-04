@@ -27,3 +27,4 @@ system("chcp 65001")) {
 	cout << "Ваш возраст в днях: " << now_days - btime_days;
 	system("pause");
 	return 0;
+}
